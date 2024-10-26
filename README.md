@@ -11,7 +11,7 @@ Practice Postgres SQL queries
 If looking for free cloud Postgres SQL usage, then, try **neon.tech**  [console.neon.tech](https://console.neon.tech/app/projects)
 
 - Always-available free tier, no credit card required
-- In-built SQL editor with key auto complete 
+- In-built SQL Editor with key-in auto complete 
 - Branching based, saving queries for future reference
 - AI feature for query correction
-- builds on AWS or Azure 
+- Builds on AWS or Azure 
